@@ -1,0 +1,6 @@
+Vehicles left campus
+ 
+Vehicles entered but not left
+ AR3606 1  KY1879 1  MQ9127 1  NW7535 1  QS2375 1  
+Vehicles with inconsistent logs
+ DB4784 JM2897 XS1293 
